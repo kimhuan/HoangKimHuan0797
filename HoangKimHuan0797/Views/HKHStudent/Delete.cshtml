@@ -1,0 +1,33 @@
+@model HoangKimHuan0797.Models.HKHStudent
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Xoá bỏ</h1>
+
+<h3>Bạn có muốn xoá không?</h3>
+<div>
+    <h4>HKHStudent</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.HKHStudentAddress)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.HKHStudentAddress)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.HKHStudentPhone)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.HKHStudentPhone)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="HKHStudentName" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

@@ -1,0 +1,43 @@
+@model HoangKimHuan0797.Models.HKHEmployee
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Thêm nhân viên</h1>
+
+<h4>HKHEmployee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="HKHEmployeeID" class="control-label"></label>
+                <input asp-for="HKHEmployeeID" class="form-control" />
+                <span asp-validation-for="HKHEmployeeID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HKHEmployeeName" class="control-label"></label>
+                <input asp-for="HKHEmployeeName" class="form-control" />
+                <span asp-validation-for="HKHEmployeeName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HKHEmployeeAddress" class="control-label"></label>
+                <input asp-for="HKHEmployeeAddress" class="form-control" />
+                <span asp-validation-for="HKHEmployeeAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

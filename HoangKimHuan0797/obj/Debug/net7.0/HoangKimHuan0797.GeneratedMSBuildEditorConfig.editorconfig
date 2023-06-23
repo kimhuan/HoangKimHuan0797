@@ -16,6 +16,66 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = e:\NetCore\HoangKimHuan0797\HoangKimHuan0797
 build_property._RazorSourceGeneratorDebug = 
 
+[e:/NetCore/HoangKimHuan0797/HoangKimHuan0797/Views/HKHEmployee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSEtIRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/NetCore/HoangKimHuan0797/HoangKimHuan0797/Views/HKHEmployee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSEtIRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/NetCore/HoangKimHuan0797/HoangKimHuan0797/Views/HKHEmployee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSEtIRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/NetCore/HoangKimHuan0797/HoangKimHuan0797/Views/HKHEmployee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSEtIRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/NetCore/HoangKimHuan0797/HoangKimHuan0797/Views/HKHEmployee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSEtIRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/NetCore/HoangKimHuan0797/HoangKimHuan0797/Views/HKHPerson/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSEtIUGVyc29uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/NetCore/HoangKimHuan0797/HoangKimHuan0797/Views/HKHPerson/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSEtIUGVyc29uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/NetCore/HoangKimHuan0797/HoangKimHuan0797/Views/HKHPerson/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSEtIUGVyc29uXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/NetCore/HoangKimHuan0797/HoangKimHuan0797/Views/HKHPerson/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSEtIUGVyc29uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/NetCore/HoangKimHuan0797/HoangKimHuan0797/Views/HKHPerson/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSEtIUGVyc29uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/NetCore/HoangKimHuan0797/HoangKimHuan0797/Views/HKHStudent/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSEtIU3R1ZGVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/NetCore/HoangKimHuan0797/HoangKimHuan0797/Views/HKHStudent/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSEtIU3R1ZGVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/NetCore/HoangKimHuan0797/HoangKimHuan0797/Views/HKHStudent/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSEtIU3R1ZGVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/NetCore/HoangKimHuan0797/HoangKimHuan0797/Views/HKHStudent/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSEtIU3R1ZGVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/NetCore/HoangKimHuan0797/HoangKimHuan0797/Views/HKHStudent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSEtIU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [e:/NetCore/HoangKimHuan0797/HoangKimHuan0797/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
